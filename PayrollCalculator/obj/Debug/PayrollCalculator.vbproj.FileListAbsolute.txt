@@ -1,0 +1,12 @@
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\bin\Debug\PayrollCalculator.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.AssemblyReference.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.frmPayrollCalc.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.Resources.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.GenerateResource.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Homework2\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
